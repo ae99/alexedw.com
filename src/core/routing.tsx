@@ -1,6 +1,6 @@
 import { RouteProps } from 'react-router';
 import { Index } from '../components/index';
-import { Experience } from '../components/experience';
+import { Experience } from '../components/experience/experience';
 
 interface RouteAdditionalProps {
     heading?: string;
@@ -19,7 +19,7 @@ export const routes: Route[] = [
         bold: true
     },
     {
-        path: '/experience',
+        path: '/experience/',
         component: Experience,
         heading: 'Experience',
     },
