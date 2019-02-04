@@ -1,6 +1,6 @@
 [
     {
-        "company": "Atlassian",
+        "company": "Atlassian",  
         "role": "Junior Software Engineer Intern",
         "when": [
             {
@@ -10,7 +10,7 @@
         ],
         "location": "Sydney, AU",
         "description": "As part of the Hatch program, I’ve begun working part time on Atlassians Ecosystems team, working to improve the experience of developers across the world through developer.atlassian.com. My role primarily involves development of React based applications in a modern agile environment.",
-        "achivements": [
+        "achievements": [
             "Finalist in internal hackathon “ShipIt”, built enhanced post sprint report into next generation of Jira."
         ]
     },
@@ -29,7 +29,7 @@
         ],
         "location": "Newcastle, AU",
         "description": "At Saphi, I have been part of a fast paced team developing an Angular6 based web application utilising Google Firebase and aggregating data from a number of third party integrations.",
-        "achivements": [
+        "achievements": [
             "Gained experience building single page applications with Angular 2+, asynchronous programming with ReactiveX, and utilising Google Cloud Services",
             "Developed services which pull data from a number of third parties including Github and Stack Overflow."
         ]
@@ -45,7 +45,7 @@
         ],
         "location": "Newcastle, AU",
         "description": "Cogesic is a startup based at the Dantia Smart Hub creating a NodeJS based generative development platform allowing declarative specifications to be used to generate artefacts such as code, business rules, documents, and partial or full applications.",
-        "achivements": [
+        "achievements": [
             "Utilised NodeJS to build a large number of server side applications, as well as created a number of React based components for front end use",
             "Created 15+ new schema based documents for the platform utilising HTML/Sass as well as created a proprietary YAML based markup language for PDF generation in JavaScript.",
             "Gained experience maintaining and working within large codebases and collaborating heavily with other developers."
@@ -62,7 +62,7 @@
         ],
         "location": "Newcastle, AU",
         "description": "Unreal VR is a Virtual Reality company based in Newcastle, serving as a VR Arcade and providing VR services (game development and equipment) to the corporate market.",
-        "achivements": [
+        "achievements": [
             "Redesigned Unreal VR’s public facing games listings website, which currently receives an average of 500 visitors per week",
             "Acted as part of the team responsible for overseeing the daily operations at Unreal VR."
         ]

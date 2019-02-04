@@ -5,7 +5,11 @@ import { Header } from './header';
 export class Layout extends React.Component {
     static Main = styled.div`
         margin: auto;
-        max-width: 800px;
+        max-width: 1050px;
+
+        @media screen and (max-width: 1100px) {
+            padding: 0 1em;
+        }
     `;
 
     render () {
