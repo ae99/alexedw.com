@@ -8,6 +8,11 @@ const Bordered = styled.div`
     padding: 2em 0;
 `;
 
+const Wrapper = styled.div`
+    border-top: 1px solid #DEDEDE;
+    margin: 2em 0;
+`;
+
 const When = styled.div`
     font-size: 0.75em;
     opacity: 0.8;
@@ -32,7 +37,7 @@ const Paragraph = styled.p`
 export class Experience extends React.Component {
     render () {
         return (
-            <div>
+            <Wrapper>
                 {
                     experience.map(item => (
                      <Bordered>
@@ -59,7 +64,7 @@ export class Experience extends React.Component {
                      </Bordered>   
                     ))
                 }
-            </div>
+            </Wrapper>
         );
     }  
 }
