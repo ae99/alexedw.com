@@ -5,7 +5,7 @@ import { routes } from './routing';
 
 export class Header extends React.Component {
     static Header = styled.div`
-        font-family: 'Source Sans Pro';
+        font-family: 'Open Sans', sans-serif;
         padding: 3rem 0;
 
         @media screen and (max-width: 1000px) {

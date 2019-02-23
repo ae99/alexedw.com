@@ -28,7 +28,7 @@ const Heading = styled.h2`
 `;
 
 const Paragraph = styled.p`
-    font-family: 'Noto Serif JP';
+    font-family: 'Noto Serif', serif;
     font-size: 1.125em;
     padding: 0 1em;
     line-height: 1.6;
