@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.db7c24e2.chunk.css",
-  "main.js": "/static/js/main.c605c288.chunk.js",
-  "main.js.map": "/static/js/main.c605c288.chunk.js.map",
-  "static/js/1.8cc799a1.chunk.js": "/static/js/1.8cc799a1.chunk.js",
-  "static/js/1.8cc799a1.chunk.js.map": "/static/js/1.8cc799a1.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.db7c24e2.chunk.css.map": "/static/css/main.db7c24e2.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.30f0cc27375fec442938327d43231f43.js": "/precache-manifest.30f0cc27375fec442938327d43231f43.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/alexedw.com/static/css/main.db7c24e2.chunk.css",
+  "main.js": "/alexedw.com/static/js/main.396d6451.chunk.js",
+  "main.js.map": "/alexedw.com/static/js/main.396d6451.chunk.js.map",
+  "static/js/1.cf1a5bb3.chunk.js": "/alexedw.com/static/js/1.cf1a5bb3.chunk.js",
+  "static/js/1.cf1a5bb3.chunk.js.map": "/alexedw.com/static/js/1.cf1a5bb3.chunk.js.map",
+  "runtime~main.js": "/alexedw.com/static/js/runtime~main.6fa8d295.js",
+  "runtime~main.js.map": "/alexedw.com/static/js/runtime~main.6fa8d295.js.map",
+  "static/css/main.db7c24e2.chunk.css.map": "/alexedw.com/static/css/main.db7c24e2.chunk.css.map",
+  "index.html": "/alexedw.com/index.html",
+  "precache-manifest.caaf551d6948ba2dfcd709de259d4ba9.js": "/alexedw.com/precache-manifest.caaf551d6948ba2dfcd709de259d4ba9.js",
+  "service-worker.js": "/alexedw.com/service-worker.js"
 }
