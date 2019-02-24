@@ -32,7 +32,7 @@
         "description": "At Saphi, I have been part of a fast paced team developing an Angular6 based web application utilising Google Firebase and aggregating data from a number of third party integrations.",
         "achievements": [
             "Gained experience building single page applications with Angular 2+, asynchronous programming with ReactiveX, and utilising Google Cloud Services.",
-            "Developed services which pull data from a number of third parties including Github and Stack Overflow."
+            "Developed services which pull data from a number of third parties including Github, Stack Overflow and GitLab."
         ]
     },
     {
@@ -64,8 +64,7 @@
         "location": "Newcastle, AU",
         "description": "Unreal VR is a Virtual Reality company based in Newcastle, serving as a VR Arcade and providing VR services (game development and equipment) to the corporate market.",
         "achievements": [
-            "Redesigned Unreal VR’s public facing games listings website, which currently receives an average of 500 visitors per week.",
-            "Acted as part of the team responsible for overseeing the daily operations at Unreal VR."
+            "Redesigned Unreal VR’s public facing games listings website, which currently receives an average of 500 visitors per week."
         ]
     }
 ]
