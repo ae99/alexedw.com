@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Layout } from './layout';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import { Index } from '../components/index';
 import { routes } from './routing';
 import { spring, AnimatedSwitch } from 'react-router-transition';
@@ -47,7 +47,7 @@ function mapStyles(styles: any) {
 class App extends Component {
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         
         <Layout>
           <AnimatedSwitchStyled

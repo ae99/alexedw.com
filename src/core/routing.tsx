@@ -23,19 +23,19 @@ export const routes: Route[] = [
         component: Experience,
         heading: 'Experience',
     },
-    {
-        path: '/projects/',
-        component: Experience,
-        heading: 'Projects',
-    },
-    {
-        path: '/articles/',
-        component: Experience,
-        heading: 'Articles',
-    },
-    {
-        path: '/contact/',
-        component: Experience,
-        heading: 'Contact',
-    },
+    // {
+    //     path: '/projects/',
+    //     component: Experience,
+    //     heading: 'Projects',
+    // },
+    // {
+    //     path: '/articles/',
+    //     component: Experience,
+    //     heading: 'Articles',
+    // },
+    // {
+    //     path: '/contact/',
+    //     component: Experience,
+    //     heading: 'Contact',
+    // },
 ]
