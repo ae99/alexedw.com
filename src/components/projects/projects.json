@@ -7,7 +7,7 @@
             "React, SASS, TypeScript",
             "NodeJS",
             "ExpressJS + Websockets",
-            "Digital Ocean Server w/Docker & Dokku + managed Postgres SQL"
+            "Digital Ocean Server w/Docker & Dokku +  managed Postgres SQL"
         ]
     },
     {
