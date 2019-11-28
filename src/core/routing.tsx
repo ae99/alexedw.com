@@ -24,11 +24,11 @@ export const routes: Route[] = [
         component: Experience,
         heading: 'Experience',
     },
-    {
-        path: '/projects/',
-        component: Projects,
-        heading: 'Projects',
-    },
+    // {
+    //     path: '/projects/',
+    //     component: Projects,
+    //     heading: 'Projects',
+    // },
     // {
     //     path: '/articles/',
     //     component: Experience,
