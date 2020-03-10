@@ -1,6 +1,19 @@
 [
     {
         "company": "Canva",  
+        "role": "Frontend Engineer",
+        "when": [
+            {
+                "start": "March 2020",
+                "end": ""
+            }
+        ],
+        "location": "Sydney, AU",
+        "description": "",
+        "achievements": []
+    },
+    {
+        "company": "Canva",  
         "role": "Frontend Engineer Intern",
         "when": [
             {
