@@ -19,11 +19,11 @@ export const routes: Route[] = [
         heading: 'Alexander Edwards',
         bold: true
     },
-    {
-        path: '/experience/',
-        component: Experience,
-        heading: 'Experience',
-    },
+    //{
+    //    path: '/experience/',
+    //    component: Experience,
+    //    heading: 'Experience',
+    //},
     // {
     //     path: '/projects/',
     //     component: Projects,
