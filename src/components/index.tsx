@@ -14,7 +14,9 @@ export class Index extends React.Component {
     render () {
         return (
             <Heading>
-                I'm a frontend engineer at Canva and student majoring in Computer Science  at the University of Sydney.
+                I’m a Product Manger and Engineer
+Previously Product@Canva, Engineering@Canva, Engineering@Atlassian
+            
             </Heading>
         );
     }  
